@@ -1,0 +1,8 @@
+MERN STACK
+1. JWT Authentication Portal like login Logout Home - Admin
+2. Blog/ Post Pages
+3. Chat Application
+4. Redux
+5. PWA 
+6. Server Side Rendering
+7. Game
