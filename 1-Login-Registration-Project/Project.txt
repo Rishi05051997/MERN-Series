@@ -1,0 +1,5 @@
+Add Registration -->> name, emailid, phone, password
+login -->> emailid, password\
+JWT details -->> name, emailid, phone
+
+Information -->> address, documet, document required
